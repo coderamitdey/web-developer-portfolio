@@ -132,10 +132,6 @@ main section{
     
 }
 /* resume styles */
-.text-center{
-    font-size: 35px;
-    font-weight: bold;
-}
 .resume-container{
     display: flex;
     gap: 24px;
